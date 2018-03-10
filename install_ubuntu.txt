@@ -1,0 +1,6 @@
+﻿ubuntu tty1 login
+==
+change password root: sudo password root
+https://www.youtube.com/watch?v=kIpNP-r4FPE
+===Error
+Gik-Warning ***: cannot open display
