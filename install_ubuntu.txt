@@ -4,3 +4,7 @@ change password root: sudo password root
 https://www.youtube.com/watch?v=kIpNP-r4FPE
 ===Error
 Gik-Warning ***: cannot open display
+===command======
+# sudo apt-get install open-vm-tools
+# https://askubuntu.com/questions/14685/what-does-package-package-has-no-installation-candidate-mean
+-> install tool
