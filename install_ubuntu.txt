@@ -1,10 +1,22 @@
 ﻿ubuntu tty1 login
-==
 change password root: sudo password root
 https://www.youtube.com/watch?v=kIpNP-r4FPE
 ===Error
 Gik-Warning ***: cannot open display
 ===command======
+--------------------------------
 # sudo apt-get install open-vm-tools
-# https://askubuntu.com/questions/14685/what-does-package-package-has-no-installation-candidate-mean
+or
+# sudo apt-get install munin-memcached  
+or
+# sudo add-apt-repository ppa:chris-lea/munin-plugins
+# sudo apt-get update && sudo apt-get install munin-memcached
 -> install tool
+--------------------------------
+sensible-browser
+-> run browser
+--------------------------------
+==================================
+Docker
+==================================
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
